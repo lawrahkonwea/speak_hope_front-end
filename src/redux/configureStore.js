@@ -1,10 +1,10 @@
-import { configureStore } from "@reduxjs/toolkit";
+import { configureStore } from '@reduxjs/toolkit';
 
 const store = configureStore({
 
   reducer: {
-    hope: hopeReducer,
+    // hope: hopeReducer,
   },
-})
+});
 
 export default store;
