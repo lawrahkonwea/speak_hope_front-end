@@ -1,25 +1,25 @@
 /* @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap'); */
+
 /* @import url('https://fonts.googleapis.com/css2?family=DynaPuff:wght@500&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Bowlby+One&family=DynaPuff:wght@500;700&display=swap'); */
 @import url('https://fonts.googleapis.com/css2?family=Albert+Sans:wght@100&family=Bowlby+One&family=DynaPuff:wght@500;700&display=swap');
-.body-bg {
-  background-color: #5465FF !important;
-  min-height: 80vh
 
+.body-bg {
+  background-color: #5465ff !important;
+  min-height: 80vh;
 }
 
 .bg-div {
-  background-color: #E2FDFF;
+  background-color: #e2fdff;
   margin: 5%;
   min-height: 60vh;
 }
 
 .button-div {
   margin-top: 50px;
- 
 }
 
-.logo-image img{
+.logo-image img {
   width: 35px;
   margin-top: 80px;
   margin-bottom: 20px;
@@ -30,7 +30,7 @@
 }
 
 .button {
-  background-color: #DEAB90;
+  background-color: #deab90;
   border-radius: 15px;
   border: none;
   padding: 6px;
@@ -39,7 +39,7 @@
 }
 
 .button2 {
-  background-color: #9D6B53;
+  background-color: #9d6b53;
   border-radius: 15px;
   border: none;
   color: #fff;
@@ -60,7 +60,6 @@
   font-family: 'Bowlby One', cursive;
   background-color: #f2f2f2;
   padding: 20px;
-  
 }
 
 .one_thousand {
@@ -105,14 +104,14 @@
   border: 2px solid #333;
 }
 
-.therapy_text{
- padding: 0 20px;
-  
+.therapy_text {
+  padding: 0 20px;
 }
 
 .wave_hope {
   font-family: 'Bowlby One', cursive;
 }
+
 .hope_text {
   font-family: 'Albert Sans', sans-serif;
 }
@@ -125,8 +124,8 @@
   padding: 8px 9px;
 }
 
-@media (min-width: 768px){
-  .secondsect_div{
+@media (min-width: 768px) {
+  .secondsect_div {
     display: flex;
     justify-content: space-around;
     margin-top: 30px;
